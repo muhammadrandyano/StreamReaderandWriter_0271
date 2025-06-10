@@ -29,7 +29,7 @@ int main ()
         //menulis dan memasukkan nilai dari baris ke dalam file
         outFile << baris << endl;
     }
-    //selesai dalam menulis sekarang tututp filenya
+    //selesai dalam menulis sekarang tutup filenya
     outFile.close();
 
     //Membuka file dalam mode membaca
